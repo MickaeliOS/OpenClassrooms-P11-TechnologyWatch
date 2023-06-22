@@ -1,4 +1,4 @@
-# OpenClassrooms-P11-VeilleTechnologique
+# OpenClassrooms-P11-TechnologyWatch
 
 As we approach the final project at OpenClassrooms, we're diving into a crucial topic: Technology Watch.
 
